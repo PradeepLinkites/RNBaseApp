@@ -1,0 +1,4 @@
+#Mon Jun 24 15:04:26 IST 2019
+base.0=/home/user/Desktop/Pradeep_Apps/Mobile App/RNApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
